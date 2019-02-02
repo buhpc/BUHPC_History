@@ -18,6 +18,11 @@ tempalte: title-layout
 #### Use big computers to run important calculations that run super fast.
 
 ---
+name: new-beginnings
+template: title-layout
+![kcomuputer](./img/kcomputer.jpg)
+
+---
 name: what-we-do
 template: basic-layout
 ## What do we do?
