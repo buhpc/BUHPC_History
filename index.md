@@ -19,7 +19,7 @@ tempalte: title-layout
 
 ---
 name: what-we-do
-template: title-layout
+template: basic-layout
 ## What do we do?
 - Participate in international Student Cluster Competitions
 - Part of the Boston Area HPC Interest Group
@@ -89,7 +89,7 @@ template: basic-layout
 
 ---
 name: what-is-scc
-template: title-layout
+template: basic-layout
 ## What does SCC entail?
 - 4-6 HPC codes to optimize and use as benchmarks
 - Code is generally given
